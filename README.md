@@ -1,10 +1,8 @@
-
-
 # 🚀 How_to_Github
 
 **Your Ultimate Guide to Mastering Git & GitHub Workflows**
 
-[![GitHub stars](https://img.shields.io/github/stars/AshC2004/How_to_Githubs://img.shields.//img.shields.io/github/issues/AshC2004/How_to_Github?s://img.shields.iorm your development workflow with comprehensive Git mastery*
+[![GitHub stars](https://img.shields.io/github/stars/AshC2004/How_to_Github4/How_to_Github/issuess://img.workflow with comprehensive Git mastery*
 
 [📖 **Get Started**](#-getting-started) -  [🎯 **Features**](#-features) -  [📚 **Documentation**](#-documentation) -  [🤝 **Contributing**](#-contributing)
 
@@ -171,7 +169,9 @@ cat Setup.md
 
 ### 📊 Repository Stats
 
-![GitHub code size](https://img.shields.io/github/languages/code-size/AshC2004/How_to_Github file count](https://img.shields.io/github/directory-file-count/AshC2004/How_to_Github?styleu Need
+![GitHub code sizent](https://img.shields. Examples
+
+### 🔍 Find What You Need
 
 ```bash
 # Search for specific topics
@@ -235,6 +235,14 @@ DesignImprove visual elements and diagrams
 - Update the table of contents if needed
 - Be respectful and constructive
 
+## 🎉 Community
+
+### 💬 Get Help
+
+- **🐛 Issues**: [Report bugs or request features](https://github.com/AshC2004/How_to_Github/issues)
+- **💡 Discussions**: Share ideas and ask questions
+- **📧 Email**: Reach out for collaboration opportunities
+
 ### 🌟 Show Your Support
 
 If this repository helped you, consider:
@@ -264,6 +272,11 @@ If this repository helped you, consider:
 - [📚 Pro Git Book](https://git-scm.com/book)
 - [🎥 Git and GitHub YouTube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
 
 ## 🎯 Ready to Master Git & GitHub?
 
@@ -273,3 +286,6 @@ Made with ❤️ by [AshC2004](https://github.com/AshC2004) | Last Updated: July
 
 **⭐ Star this repository if it helped you!**
 
+
+
+[1] https://img.shields.io/github/stars/AshC2004/How_to_Githubs:/img.shields./img.shields.io/github/issu
