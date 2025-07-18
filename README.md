@@ -282,11 +282,6 @@ If this repository helped you, consider:
 - [📚 Pro Git Book](https://git-scm.com/book)
 - [🎥 Git and GitHub YouTube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-
 
 ## 🎯 Ready to Master Git & GitHub?
 
