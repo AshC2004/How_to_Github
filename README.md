@@ -2,7 +2,12 @@
 
 **Your Ultimate Guide to Mastering Git & GitHub Workflows**
 
-[![GitHub stars](https://img.shields.io/github/stars/AshC2004/How_to_Github4/How_to_Github/issuess://img.workflow with comprehensive Git mastery*
+[![GitHub stars](https://img.shields.io/github/stars/AshC2004/How_to_Github?style=social)](https://github.com/AshC2004/How_to_Github/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshC2004/How_to_Github?style=social)](https://github.com/AshC2004/How_to_Github/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshC2004/How_to_Github)](https://github.com/AshC2004/How_to_Github/issues)
+[![GitHub license](https://img.shields.io/github/license/AshC2004/How_to_Github)](https://github.com/AshC2004/How_to_Github/blob/main/LICENSE)
+
+*Transform your development workflow with comprehensive Git mastery*
 
 [📖 **Get Started**](#-getting-started) -  [🎯 **Features**](#-features) -  [📚 **Documentation**](#-documentation) -  [🤝 **Contributing**](#-contributing)
 
@@ -92,7 +97,7 @@ Welcome to **How_to_Github** - your comprehensive, battle-tested guide to master
 
 ### 🏃‍♂️ Quick Start
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/AshC2004/How_to_Github.git
 
@@ -169,11 +174,16 @@ cat Setup.md
 
 ### 📊 Repository Stats
 
-![GitHub code sizent](https://img.shields. Examples
+![GitHub code size](https://img.shields.io/github/languages/code-size/AshC2004/How_to_Github)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/AshC2004/How_to_Github)
+![GitHub last commit](https://img.shields.io/github/last-commit/AshC2004/How_to_Github)
+![GitHub contributors](https://img.shields.io/github/contributors/AshC2004/How_to_Github)
+
+## 🛠️ Usage Examples
 
 ### 🔍 Find What You Need
 
-```bash
+```
 # Search for specific topics
 grep -r "pull request" .
 grep -r "merge conflict" .
@@ -182,7 +192,7 @@ grep -r "GitHub Actions" .
 
 ### 📖 Read Offline
 
-```bash
+```
 # Create a local copy for offline reading
 git clone https://github.com/AshC2004/How_to_Github.git
 cd How_to_Github
@@ -285,7 +295,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Made with ❤️ by [AshC2004](https://github.com/AshC2004) | Last Updated: July 2025
 
 **⭐ Star this repository if it helped you!**
-
-
-
-[1] https://img.shields.io/github/stars/AshC2004/How_to_Githubs:/img.shields./img.shields.io/github/issu
